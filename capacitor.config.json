@@ -1,6 +1,6 @@
 {
   "appId": "dev.baris.react",
-  "appName": "capacitor-react",
+  "appName": "Capacitor React",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "dist",

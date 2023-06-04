@@ -1,6 +1,6 @@
 {
 	"appId": "dev.baris.react",
-	"appName": "capacitor-react",
+	"appName": "Capacitor React",
 	"webDir": "dist",
 	"plugins": {
 		"CapacitorCookies": {
