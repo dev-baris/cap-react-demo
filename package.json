@@ -1,6 +1,7 @@
 {
   "name": "capacitor-react",
   "version": "0.0.1",
+  "author": "Baris Aydin <dev.barisaydin@gmail.com>",
   "private": true,
   "description": "Capacitor React",
   "scripts": {
