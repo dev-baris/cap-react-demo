@@ -1,0 +1,20 @@
+{
+	"appId": "dev.baris.react",
+	"appName": "capacitor-react",
+	"webDir": "dist",
+	"plugins": {
+		"CapacitorCookies": {
+			"enabled": true
+		},
+		"CapacitorHttp": {
+			"enabled": true
+		},
+		"SplashScreen": {
+			"launchAutoHide": false
+		},
+		"LocalNotifications": {
+			"smallIcon": "ic_stat_icon_config_sample",
+			"iconColor": "#CE0B7C"
+		}
+	}
+}
