@@ -77,10 +77,10 @@ typings/
 .env.test.local
 .env.production.local
 .vscode
+.idea
 
 .stencil/
 
 .gradle
 /.pnp
 .pnp.js
-.idea
